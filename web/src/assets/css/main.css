@@ -1,0 +1,45 @@
+.main {
+    width: 80%;
+    height: 68%;
+    margin-left: 20%;
+    background-color: #f4f4f4;
+    margin-top: -617px;
+    border-radius: 10px;
+}
+.main-select{
+    background-color: white;
+    width: 98%;
+    height: 50px;
+    position: relative;
+    top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+    display: flex;
+}
+input{
+    margin-left: 30px;
+    margin-top: 7px;
+    width: 25%;
+    height: 35px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 2px rgba(249, 160, 160, 0.308);
+    background: rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+
+}
+.main-selects {
+    margin-left: 20px;
+    margin-top: 7px;
+    width: 6%;
+    height: 35px;
+    border-radius: 8px;
+    background: #4caf50;
+    border:-moz-default-color;
+    box-shadow: white; /* Remove the box shadow */
+    color: white; /* Set text color to white for visibility */
+}
+#main-rest{
+    background: #4f27ff;
+}
